@@ -9,7 +9,7 @@ Practical [Claude Code](https://code.claude.com) skills, each one a plugin you c
 In Claude Code:
 
 ```text
-/plugin marketplace add adamjali/claude-skills
+/plugin marketplace add adam-j-ali/claude-skills
 /plugin install explain@adamjali
 ```
 

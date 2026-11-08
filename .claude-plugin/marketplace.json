@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "adamjali",
   "description": "Practical Claude Code skills: deep-dive research & teardowns, web build/deploy, image search, repo audit, disk cleanup, outreach, and a skill generator.",
-  "owner": { "name": "adamjali", "url": "https://github.com/adamjali" },
+  "owner": { "name": "adamjali", "url": "https://github.com/adam-j-ali" },
   "plugins": [
     {
       "name": "explain",
@@ -11,7 +11,7 @@
       "license": "MIT",
       "category": "productivity",
       "keywords": ["research", "teardown", "competitor-analysis", "reverse-engineering", "explain"],
-      "homepage": "https://github.com/adamjali/claude-skills"
+      "homepage": "https://github.com/adam-j-ali/claude-skills"
     },
     {
       "name": "jina-image-search",
@@ -20,7 +20,7 @@
       "license": "MIT",
       "category": "productivity",
       "keywords": ["images", "image-search", "scraping", "jina", "stock-photos"],
-      "homepage": "https://github.com/adamjali/claude-skills"
+      "homepage": "https://github.com/adam-j-ali/claude-skills"
     },
     {
       "name": "site-forge",
@@ -29,7 +29,7 @@
       "license": "MIT",
       "category": "development",
       "keywords": ["website", "web-design", "landing-page", "remotion", "deploy"],
-      "homepage": "https://github.com/adamjali/claude-skills"
+      "homepage": "https://github.com/adam-j-ali/claude-skills"
     },
     {
       "name": "disk-cleanup",
@@ -38,7 +38,7 @@
       "license": "MIT",
       "category": "productivity",
       "keywords": ["disk", "cleanup", "macos", "storage", "cache"],
-      "homepage": "https://github.com/adamjali/claude-skills"
+      "homepage": "https://github.com/adam-j-ali/claude-skills"
     },
     {
       "name": "site-prospector",
@@ -47,7 +47,7 @@
       "license": "MIT",
       "category": "productivity",
       "keywords": ["leads", "prospecting", "local-business", "outreach", "web-design"],
-      "homepage": "https://github.com/adamjali/claude-skills"
+      "homepage": "https://github.com/adam-j-ali/claude-skills"
     },
     {
       "name": "github-audit",
@@ -56,7 +56,7 @@
       "license": "MIT",
       "category": "development",
       "keywords": ["github", "audit", "ci-cd", "dependabot", "security"],
-      "homepage": "https://github.com/adamjali/claude-skills"
+      "homepage": "https://github.com/adam-j-ali/claude-skills"
     },
     {
       "name": "skill-maker",
@@ -65,7 +65,7 @@
       "license": "MIT",
       "category": "development",
       "keywords": ["skills", "skill-creator", "claude-code", "scaffolding", "meta"],
-      "homepage": "https://github.com/adamjali/claude-skills"
+      "homepage": "https://github.com/adam-j-ali/claude-skills"
     },
     {
       "name": "cold-outreach",
@@ -74,7 +74,7 @@
       "license": "MIT",
       "category": "productivity",
       "keywords": ["cold-email", "outreach", "sales", "prospecting", "resend"],
-      "homepage": "https://github.com/adamjali/claude-skills"
+      "homepage": "https://github.com/adam-j-ali/claude-skills"
     },
     {
       "name": "email-broadcasts",
@@ -83,7 +83,7 @@
       "license": "MIT",
       "category": "productivity",
       "keywords": ["email", "broadcast", "newsletter", "marketing", "resend"],
-      "homepage": "https://github.com/adamjali/claude-skills"
+      "homepage": "https://github.com/adam-j-ali/claude-skills"
     }
   ]
 }
