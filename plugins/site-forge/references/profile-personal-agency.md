@@ -26,8 +26,8 @@ and it is why this cannot just inherit `creative-portfolio`.
 
 - Live at `<client>.netlify.app`, 7 pages, built 2026-07-20. Treat the existing build as
   prior art to interrogate, not as the spec.
-- Persona rules are **hard and non-negotiable**: everything public is `adamjali` / "Adam J
-  Ali" / `296340474+adamjali@example-business.com`. Real name and real gmail never
+- Persona rules are **hard and non-negotiable**: everything public is `adam-j-ali` / "Adam J
+  Ali" / the account's GitHub noreply address. Real name and real gmail never
   appear in public commit history or on the page. See `~/.claude/CLAUDE.md`.
 - The operation it sells is **organic** (GBP, local SEO, reviews). There is no ad spend
   and no paid-media fluency to claim. Never bluff it.
